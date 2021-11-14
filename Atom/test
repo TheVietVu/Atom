@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>UTD Study Spots</title>
+  </head>
+  <body>
+    <h1>UTD Study Spots</h1>
+    <p>The best locations on campus to sit and study!</p>
+    <p><input type="search"></p>
+    <button>Help</button>
+    <script src="script.js">
+    </script>
+    <p style="padding: 20px; border: 6px solid #f0bbcd;"><font size="+2"><b>Location 1</b></font><br>Outside</p>
+    <p style="padding: 20px; border: 6px solid red;">Location 2</p>
+    <p style="padding: 20px; background-color: #f0bbcd; border: 6px solid #f0bbcd;">Location 3</p>
+    <p style="padding: 20px; border: 6px solid red;">Location 4</p>
+  </body>
+</html>
